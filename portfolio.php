@@ -898,6 +898,61 @@ The company has grown quickly, expanding from 700 to 2800 locations in just nine
                             </div>
                         </div>
                         
+                        <div class="row founder-row align-items-center">
+                            <div class="col-lg-3 col-md-6 col-12 col-lg-3 col-md-6 col-12 d-flex justify-content-center">
+                                <div class="team-pic">
+                                    <img src="assets/img/new-porfolio-img/extramile.png" alt="" srcset="">
+                                    <h4>
+                                           ExtraMile Play
+                                    </h4>
+                                </div>
+                            </div>
+                            <div class="col-lg-9">
+                                <div class="team-members-details">
+                                    <p>
+                                    ExtraMile Play, founded by Pooja Bajaj, helps large companies keep their employees engaged, especially those working on the ground, in shifts, or remotely. Through simple, mobile-friendly and gamified experiences, the platform makes it easier for teams to stay connected and motivated. With 125+ enterprise clients and an 80%+ renewal rate, ExtraMile Play has proven that it solves a real problem at scale, making it a strong addition to Growth Sense’s portfolio.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="row founder-row align-items-center">
+                            <div class="col-lg-3 col-md-6 col-12 col-lg-3 col-md-6 col-12 d-flex justify-content-center">
+                                <div class="team-pic">
+                                    <img src="assets/img/new-porfolio-img/mannlich.png" alt="" srcset="">
+                                    <h4>
+                                           MANNLICH
+                                    </h4>
+                                </div>
+                            </div>
+                            <div class="col-lg-9">
+                                <div class="team-members-details">
+                                    <p>
+                                    MANNLICH, founded by Pritam Kudev, is a men’s grooming brand focused on solving everyday skin and hygiene problems for Indian men. The brand creates straightforward, effective products that are designed for Indian skin, weather, and lifestyles. With a growing range across skincare and personal care, and strong presence on online and quick-commerce platforms, MANNLICH is making quality grooming simple and accessible making it a solid addition to Growth Sense’s portfolio.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="row founder-row align-items-center">
+                            <div class="col-lg-3 col-md-6 col-12 col-lg-3 col-md-6 col-12 d-flex justify-content-center">
+                                <div class="team-pic">
+                                    <img src="assets/img/new-porfolio-img/retner.png" alt="" srcset="">
+                                    <h4>
+                                           Retner.ai
+                                    </h4>
+                                </div>
+                            </div>
+                            <div class="col-lg-9">
+                                <div class="team-members-details">
+                                    <p>
+                                        Retner.ai, founded by Rahul Kumar, Gita, and Piyush Kumawat, is an intent intelligence platform helping D2C brands understand and act on anonymous website visitors. By using real-time behavioural signals and AI, the platform helps brands identify purchase intent and engage the right visitor at the right time and through the right channel.
+                                        With a strong product and an experienced team, Retner.ai is addressing a clear gap in e-commerce conversion and customer engagement. Growth Sense Venture Fund and Growth91 are proud to support Retner.ai with funding as it enters its next phase of growth.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        
                         
                     </div>
                 </div>

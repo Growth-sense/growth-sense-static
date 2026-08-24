@@ -278,36 +278,6 @@ include 'header.php';
 
 
                         </div>
-
-                        <div class="row founder-row align-items-center" data-aos="fade-up" data-aos-duration="700">
-                            <div class="col-lg-3 col-md-6 col-12 col-lg-3 col-md-6 col-12 d-flex justify-content-center">
-                                <div class="team-pic">
-                                    <img src="assets/img/team/Mohit.jpeg" alt="" srcset="">
-                                    <h4>
-                                        Mohit Verma
-                                    </h4>
-                                    <h4>
-                                        Chief Relationship Officer
-                                    </h4>
-                                </div>
-                            </div>
-                            <div class="col-lg-9">
-                                <div class="team-members-details">
-                                    <p>
-                                       Mohit Verma is a seasoned C-suite executive with over 22 years of experience in building high-value relationships, driving strategic growth, and enabling capital formation across diverse business environments. As Chief Relationship Officer (CRO), he specializes in connecting High Net-Worth Individuals (HNIs), institutional investors, and global partners with carefully curated, high-growth investment opportunities, fostering long-term partnerships and aligning investor interests with scalable, future-ready business models.
-                                    </p>
-                                    <p>
-                                       Throughout his career, Mohit has held key leadership roles across financial services, investment advisory, and strategic business functions, where he has consistently driven revenue growth, strengthened stakeholder relationships, and led complex, high-impact initiatives. He brings deep expertise in investor relations, strategic partnerships, and startup fundraising, with a strong ability to bridge the gap between visionary founders and smart capital, ensuring alignment between investment objectives and growth potential.
-                                    </p>
-                                    <p>
-                                        Known for his strategic acumen, relationship excellence, and disciplined execution, Mohit has built a strong reputation within the venture capital ecosystem for delivering sustainable value and fostering trust among investors and partners. He is deeply committed to supporting innovation, mentoring emerging entrepreneurs, and enabling investors to participate in transformative, high-growth opportunities that drive long-term value creation.
-                                    </p>
-                                </div>
-
-                            </div>
-
-
-                        </div>
                     </div>
                 </div>
 
