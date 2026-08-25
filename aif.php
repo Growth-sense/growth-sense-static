@@ -16,7 +16,7 @@ include 'header.php';
                     </g>
                 </svg>
             </li>
-            <li>AIF</li>
+            <li>AIF Category - 1</li>
         </ul>
     </div>
 </div>
@@ -33,7 +33,7 @@ include 'header.php';
                             <h2 class="section-heading about-section-heading">Growth Sense Venture Fund
                             </h2>
                               <h5>
-                                SEBI approved Category 1 AIF - VCF - Angel Fund
+                                SEBI Approved AIF Category - 1 - VCF - Angel Fund
                             </h5>
                             <h5>
                                 SEBI Reg No. IN/AIF1/24-25/1617

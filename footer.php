@@ -158,8 +158,29 @@
                             <li class="menu-list-item nav-item">
                                 <a class="nav-link" href="growth-fund.php">Growth Fund</a>
                             </li>
-                                                        <li class="menu-list-item nav-item">
-                                <a class="nav-link" href="aif.php">AIF</a>
+                            <li class="menu-list-item nav-item mobile-nav-accordion">
+                                <div class="d-flex align-items-center justify-content-between mobile-nav-toggle" data-bs-toggle="collapse" data-bs-target="#mobile-aif-menu" aria-expanded="false" style="cursor: pointer;">
+                                    <span class="nav-link mb-0" style="cursor: pointer;">AIF</span>
+                                    <span class="mobile-accordion-icon">
+                                        <svg class="icon icon-dropdown" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                            <polyline points="6 9 12 15 18 9"></polyline>
+                                        </svg>
+                                    </span>
+                                </div>
+                                <div class="collapse mobile-sub-collapse" id="mobile-aif-menu">
+                                    <ul class="mobile-sub-menu list-unstyled">
+                                        <li>
+                                            <a class="mobile-sub-link" href="aif.php">
+                                                <i class="fa fa-angle-right me-2"></i> AIF Category - 1
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a class="mobile-sub-link" href="aif-category-2.php">
+                                                <i class="fa fa-angle-right me-2"></i> AIF Category - 2
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </div>
                             </li>
 
                             <li class="menu-list-item nav-item">

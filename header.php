@@ -94,12 +94,10 @@
                         <div class="col-lg-9 d-lg-block d-none">
                             <nav class="site-navigation">
                                 <ul class="main-menu list-unstyled justify-content-center">
-                                    <li class="menu-list-item nav-item has-dropdown">
-
+                                    <li class="menu-list-item nav-item">
                                         <a class="nav-link" href="index.php">
                                             Home
                                         </a>
-
                                     </li>
                                     <li class="menu-list-item nav-item">
                                         <a class="nav-link" href="about-us.php">About</a>
@@ -113,8 +111,27 @@
                                     <li class="menu-list-item nav-item">
                                         <a class="nav-link" href="growth-fund.php">Growth Fund</a>
                                     </li>
-                                    <li class="menu-list-item nav-item">
-                                        <a class="nav-link" href="aif.php">AIF</a>
+                                    <li class="menu-list-item nav-item has-dropdown">
+                                        <div class="mega-menu-header">
+                                            <a class="nav-link" href="aif.php">
+                                                AIF
+                                            </a>
+                                            <span class="open-submenu">
+                                                <svg class="icon icon-dropdown" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                                    <polyline points="6 9 12 15 18 9"></polyline>
+                                                </svg>
+                                            </span>
+                                        </div>
+                                        <div class="submenu-transform submenu-transform-desktop">
+                                            <ul class="submenu list-unstyled">
+                                                <li class="menu-list-item nav-item-sub">
+                                                    <a class="nav-link-sub nav-text-sub" href="aif.php">AIF Category - 1</a>
+                                                </li>
+                                                <li class="menu-list-item nav-item-sub">
+                                                    <a class="nav-link-sub nav-text-sub" href="aif-category-2.php">AIF Category - 2</a>
+                                                </li>
+                                            </ul>
+                                        </div>
                                     </li>
                                     <li class="menu-list-item nav-item">
                                         <a class="nav-link" href="contact-us.php">Contact</a>
