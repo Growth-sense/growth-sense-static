@@ -897,7 +897,7 @@ The company has grown quickly, expanding from 700 to 2800 locations in just nine
                                 </div>
                             </div>
                         </div>
-                        
+
                         <div class="row founder-row align-items-center">
                             <div class="col-lg-3 col-md-6 col-12 col-lg-3 col-md-6 col-12 d-flex justify-content-center">
                                 <div class="team-pic">
@@ -947,7 +947,26 @@ The company has grown quickly, expanding from 700 to 2800 locations in just nine
                                 <div class="team-members-details">
                                     <p>
                                         Retner.ai, founded by Rahul Kumar, Gita, and Piyush Kumawat, is an intent intelligence platform helping D2C brands understand and act on anonymous website visitors. By using real-time behavioural signals and AI, the platform helps brands identify purchase intent and engage the right visitor at the right time and through the right channel.
-                                        With a strong product and an experienced team, Retner.ai is addressing a clear gap in e-commerce conversion and customer engagement. Growth Sense Venture Fund and Growth91 are proud to support Retner.ai with funding as it enters its next phase of growth.
+                                        With a strong product and an experienced team, Retner.ai is addressing a clear gap in e-commerce conversion and customer engagement. Growth Sense Venture Fund and Growth91 are proud to support Retner.ai with funding as it enters its next phase of growth and making it a solid addition to Growth Sense’s portfolio.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="row founder-row align-items-center">
+                            <div class="col-lg-3 col-md-6 col-12 col-lg-3 col-md-6 col-12 d-flex justify-content-center">
+                                <div class="team-pic">
+                                    <img src="assets/img/new-porfolio-img/freshleaf.png" alt="" srcset="">
+                                    <h4>
+                                           FreshLeaf
+                                    </h4>
+                                </div>
+                            </div>
+                            <div class="col-lg-9">
+                                <div class="team-members-details">
+                                    <p>
+                                        FreshLeaf, founded by Balkirat Singh and Muneet Arora, is reimagining India’s love for tea with premium blends, wellness-focused options, and convenient ready-to-drink teas. With a focus on quality, convenience, and evolving consumer preferences, FreshLeaf is creating a modern tea experience for today’s consumers.
+                                        With a strong product vision and a growing market opportunity, FreshLeaf is building a brand at the intersection of tea, wellness, and convenience. Growth Sense Venture Fund and Growth91 are proud to support FreshLeaf with funding as it enters its next phase of growth and making it a solid addition to Growth Sense’s portfolio.
                                     </p>
                                 </div>
                             </div>
