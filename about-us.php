@@ -210,29 +210,6 @@ include 'header.php';
 
                         </div>
 
-                        <div class="row founder-row align-items-center" data-aos="fade-up" data-aos-duration="700">
-                            <div class="col-lg-3 col-md-6 col-12 col-lg-3 col-md-6 col-12 d-flex justify-content-center">
-                                <div class="team-pic">
-                                    <img src="assets/img/team/sushant.jpg" alt="" srcset="">
-                                    <h4>
-                                        Sushant Bhasin
-                                    </h4>
-                                    <h4>
-                                        Co-Founder
-                                    </h4>
-                                </div>
-                            </div>
-                            <div class="col-lg-9">
-                                <div class="team-members-details">
-                                    <p>Sushant Bhasin, is an experienced banker with profound understanding of the ever-evolving financial services market. He has domain expertise across all facets of Transaction Banking including, working capital management, supply chain management, structured trade and capital markets, financial and payments technologies.</p>
-                                    <p>In his last role as Executive Director, Global Transaction Banking at First Abu Dhabi Bank, he was responsible for building the Transaction Banking business vertical from scratch. Prior to this, he has worked with some of the world’s and India’s leading Banking/Financial services companies such as ANZ, Bank of America, YES Bank and GE Capital in diverse senior level positions across business strategy, product development, sales & client management and operations.</p>
-
-                                </div>
-
-                            </div>
-
-
-                        </div>
 
                         <div class="row founder-row align-items-center" data-aos="fade-up" data-aos-duration="700">
                             <div class="col-lg-3 col-md-6 col-12 col-lg-3 col-md-6 col-12 d-flex justify-content-center">
@@ -466,6 +443,27 @@ include 'header.php';
                                 </div>
 
                             </div>
+                        </div>
+
+                         <div class="row founder-row align-items-center" data-aos="fade-up" data-aos-duration="700">
+                            <div class="col-lg-3 col-md-6 col-12 col-lg-3 col-md-6 col-12 d-flex justify-content-center">
+                                <div class="team-pic">
+                                    <img src="assets/img/team/sushant.jpg" alt="" srcset="">
+                                    <h4>
+                                        Sushant Bhasin
+                                    </h4>
+                                </div>
+                            </div>
+                            <div class="col-lg-9">
+                                <div class="team-members-details">
+                                    <p>Sushant Bhasin, is an experienced banker with profound understanding of the ever-evolving financial services market. He has domain expertise across all facets of Transaction Banking including, working capital management, supply chain management, structured trade and capital markets, financial and payments technologies.</p>
+                                    <p>In his last role as Executive Director, Global Transaction Banking at First Abu Dhabi Bank, he was responsible for building the Transaction Banking business vertical from scratch. Prior to this, he has worked with some of the world’s and India’s leading Banking/Financial services companies such as ANZ, Bank of America, YES Bank and GE Capital in diverse senior level positions across business strategy, product development, sales & client management and operations.</p>
+
+                                </div>
+
+                            </div>
+
+
                         </div>
 
                         <div class="row founder-row align-items-center" data-aos="fade-up" data-aos-duration="700">
