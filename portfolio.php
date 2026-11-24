@@ -971,6 +971,44 @@ The company has grown quickly, expanding from 700 to 2800 locations in just nine
                                 </div>
                             </div>
                         </div>
+
+                        <div class="row founder-row align-items-center">
+                            <div class="col-lg-3 col-md-6 col-12 col-lg-3 col-md-6 col-12 d-flex justify-content-center">
+                                <div class="team-pic">
+                                    <img src="assets/img/new-porfolio-img/salesAgents_aI.png" alt="" srcset="">
+                                    <h4>
+                                           SalesAgents AI
+                                    </h4>
+                                </div>
+                            </div>
+                            <div class="col-lg-9">
+                                <div class="team-members-details">
+                                    <p>
+                                        SalesAgents AI, founded by Kanik Arora, is building an integrated AI-powered sales infrastructure for the BFSI sector. Its plug-and-play platform enables financial institutions to scale end-to-end sales, expand market reach, and improve conversion rates across lending, insurance, and wealth management. By addressing the human resource and sales execution bottlenecks in the financial industry, SalesAgents AI aims to make credit-worthy lending more accessible, insurance more universal, and wealth creation more intuitive.
+                                        With a strong vision to transform BFSI sales through AI and a global market opportunity, SalesAgents AI is building infrastructure for the next generation of financial services distribution. Growth Sense Venture Fund and Growth91 are proud to support SalesAgents AI with funding as it enters its next phase of growth, making it a valuable addition to the Growth Sense portfolio.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="row founder-row align-items-center">
+                            <div class="col-lg-3 col-md-6 col-12 col-lg-3 col-md-6 col-12 d-flex justify-content-center">
+                                <div class="team-pic">
+                                    <img src="assets/img/new-porfolio-img/scrapify-ecotech.png" alt="" srcset="">
+                                    <h4>
+                                           Scrapify Ecotech
+                                    </h4>
+                                </div>
+                            </div>
+                            <div class="col-lg-9">
+                                <div class="team-members-details">
+                                    <p>
+                                       Scrapify Ecotech, founded by Azhagu Pandia Raja and Mani Pitchayarasu, is a climate-tech robotics startup developing AI-powered autonomous robotic solutions for aquatic ecosystem restoration. Its flagship innovation, EcoFloater, is an autonomous watercraft designed to remove floating waste and water hyacinth from aquatic ecosystems while monitoring water quality in real time.
+                                       With a focus on intelligent automation and sustainable technology, Scrapify Ecotech is developing scalable robotic solutions to address aquatic pollution and improve water body management. Growth Sense Venture Fund and Growth91 are proud to support Scrapify Ecotech with funding as it enters its next phase of growth, making it a valuable addition to the Growth Sense portfolio.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
                         
                         
                     </div>
